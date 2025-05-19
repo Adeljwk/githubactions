@@ -47,4 +47,4 @@ jobs:
 
         # Runs a single command using the runners shell
         - name: Run job 2, a one-line script
-          run: echo, using ubuntu-22.04 
+          run: echo using ubuntu-22.04 
